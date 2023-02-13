@@ -1,10 +1,11 @@
 # git-skill-check
 repository for git skill check
 
-## Follow to the instructions written below
-In this chapter we will see your skill for commiting and pushing
+## Summary
+In this chapter we will check your skill to commit & push.
 
-Answer to the questions below and push your answer
+## Follow to the instructions written below
+Answer to the questions and push your answer
 
 ① What is your favorite food?
 

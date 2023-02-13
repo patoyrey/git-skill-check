@@ -2,23 +2,15 @@
 repository for git skill check
 
 ## Summary
-In this chapter we will check your skill to merge.
+In this chapter we will check your skill to checkkout a new banch and make a pull request.
 
 ## Follow to the instructions written below
-1. merge your branch `chapter-1` into `chapter-2`
-2. If there are any conflicts fix them.
-3. After all the conflicts are resolved push them to your `chapter-2` branch.
+1. Checkout a new branch named `chapter-3-pr`.
+2. Answer the question and push them to the createed branch.
+3. Make a pull request to merge your branch into [here](https://github.com/Accel-Hack/git-skill-check/tree/check-results).
 
-① What is your favorite food?
+① How was the skill check (I would be grateful for your opinion).
 
-Sample Answer) I like pizza!
+A. 
 
-② What is your favorite movie?
-
-Sample Answer) I like "My Neighbor Totoro."
-
-③ What is your favorite proverb?
-
-Sample Answer) Done is beter than perfect.
-
-When finished pushing to your `chapter-2` branch, checkout branch `chapter-3` for the next check.
+This is the end. Thank you for your cooporation:tada:

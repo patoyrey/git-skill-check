@@ -11,6 +11,6 @@ In this chapter we will check your skill to checkkout a new banch and make a pul
 
 ① How was the skill check (I would be grateful for your opinion).
 
-A. 
+A. The skill check is very fan
 
 This is the end. Thank you for your cooporation:tada:
